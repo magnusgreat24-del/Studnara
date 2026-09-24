@@ -1,2 +1,2 @@
-# Studnara
+# studnara
 STUDNARA — Learn. Earn. Grow.
